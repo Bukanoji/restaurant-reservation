@@ -1,6 +1,6 @@
 DB_CONFIG = {
-    'host': 'localhost',
+    'host': 'mysql://root:IzWQRDKMywTWbVCKSqtvFvHQZaKWaPuE@roundhouse.proxy.rlwy.net:18067/railway',
     'user': 'root',
-    'password': '',
-    'database': 'restaurant_db'
+    'password': 'IzWQRDKMywTWbVCKSqtvFvHQZaKWaPuE',
+    'database': 'railway'
 }
